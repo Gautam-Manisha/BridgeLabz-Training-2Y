@@ -1,4 +1,5 @@
-a=23
-b=34
-c=a+b
-d=print(a+b)
+public class Q1 {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Bridgelabz!");
+    }
+}
